@@ -7,6 +7,14 @@ Predict Research Octane Number (RON) from Gas Chromatography analysis data using
 ![SHAP](https://img.shields.io/badge/SHAP-Explainable_AI-purple.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)
 
+## 📸 Dashboard Preview
+
+<p align="center">
+  <img src="assets/dashboard.png" alt="Octane Predictor Dashboard" width="700">
+</p>
+
+*Interactive prediction interface with RON gauge, composition breakdown, SHAP explainability, and model validation.*
+
 ## 🎯 Problem Statement
 
 In petroleum refining, predicting fuel properties like **octane number** from laboratory analysis is critical for:
